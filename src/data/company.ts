@@ -3,7 +3,7 @@
 export const company = {
   name: 'Spice Supplier Indonesia',
   tagline: 'Premium Spices • Trusted Worldwide',
-  logo: '/WhatsApp_Image_2026-07-09_at_11.58.39.jpeg',
+  logo: '/SSI Logo.svg',
   email: 'spicesupplierindonesia@gmail.com',
   phone: '+62 851 6117 0335',
   whatsapp: '6285161170335',
