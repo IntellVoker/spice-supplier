@@ -27,9 +27,9 @@ export default function Navbar() {
           <img
             src={company.logo}
             alt={`${company.name} logo`}
-            width={56}
-            height={56}
-            className="h-12 w-12 object-contain"
+            width={64}
+            height={64}
+            className="h-16 w-16 object-contain"
           />
           <div className="hidden sm:block leading-tight">
             <span className="block font-display text-lg font-semibold text-primary">
