@@ -29,7 +29,7 @@ export default function Navbar() {
             alt={`${company.name} logo`}
             width={56}
             height={56}
-            className="h-14 w-14 object contain"
+            className="h-20 w-20 object contain"
           />
           <div className="hidden sm:block leading-tight">
             <span className="block font-display text-lg font-semibold text-primary">
