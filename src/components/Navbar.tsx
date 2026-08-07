@@ -27,7 +27,7 @@ export default function Navbar() {
           <img
             src={company.logo}
             alt={`${company.name} logo`}
-            width={46}
+            width={56}
             height={56}
             className="h-12 w-12 object-contain"
           />
