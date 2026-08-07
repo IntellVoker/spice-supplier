@@ -22,7 +22,7 @@ export default function Footer() {
                 alt={`${company.name} logo`}
                 width={64}
                 height={64}
-                className="h-16 w-16 object contain"
+                className="h-16 w-16 object-contain"
               />
               <div className="leading-tight">
                 <span className="block font-display text-lg font-semibold text-white">
