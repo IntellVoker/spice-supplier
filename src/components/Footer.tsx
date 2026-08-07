@@ -20,9 +20,9 @@ export default function Footer() {
               <img
                 src={company.logo}
                 alt={`${company.name} logo`}
-                width={48}
-                height={48}
-                className="h-12 w-12 rounded-full object-cover ring-2 ring-white/20"
+                width={64}
+                height={64}
+                className="h-16 w-16 object contain"
               />
               <div className="leading-tight">
                 <span className="block font-display text-lg font-semibold text-white">
